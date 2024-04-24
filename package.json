@@ -1,0 +1,23 @@
+{
+  "name": "http-miniprogram",
+  "version": "1.0.4",
+  "description": "原生小程序网络请求封装及js基础类型校验,和小程序同步和异步的储存（Storage）方法",
+  "main": "index.js",
+  "miniprogram": "miniprogram_dist",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/embracecode/http-miniprogram"
+  },
+  "files": [
+    "miniprogram_dist",
+    "utils"
+  ],
+  "keywords": [
+    "request", "http", "fetch", "miniprogram-request","wx.request", "wx.uploadFile", "小程序网络请求", "小程序请求"
+  ],
+  "author": "embrace_code",
+  "license": "ISC"
+}
